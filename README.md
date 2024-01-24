@@ -3,10 +3,10 @@
 I'm Leandro Alves, a Head of Data and data engineer from Brazil.
 
 * 🔭 I have worked in a variety of businesses: financial services, technology, food, banking, human resources (recruitment and selection), retail, telecommunications, brokerage, collections, accounting, dental healthcare, among others.. 
-❤️ I'm passionate about the fusion of Data and Process Automation.
-😴 I'm all about efficiency, so I automate tasks whenever possible.
-☁️ I thrive in the cloud, whether it's AWS or GCP.
-👨‍👩‍👦 I'm happily married, but my family doesn't include any little ones (yet!).
+* ❤️ I am passionate about the fusion of Process Automation and Data.
+* 😴 I'm all about efficiency, so I automate tasks whenever possible.
+* ☁️ I thrive in the cloud, whether it's AWS or GCP.
+* 👨‍👩‍👦 I'm happily married, but my family doesn't include any little ones (yet!).
 
 
 ## 🔗 Connect with me
